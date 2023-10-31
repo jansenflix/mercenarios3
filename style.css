@@ -77,6 +77,8 @@ text-align: center;
 
 #nav-lista2 li{
 display: inline-block;
+margin: 4px;
+    padding: 1px;
 
 }
 
